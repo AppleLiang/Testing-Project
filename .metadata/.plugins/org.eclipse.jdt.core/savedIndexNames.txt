@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+E:\UCI\cs\inf215\project\.metadata\.plugins\org.eclipse.jdt.core
